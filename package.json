@@ -1,0 +1,15 @@
+{
+  "name": "plain-html",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@zorostang/trading-bot": "0.0.5",
+    "leaflet": "^1.5.1"
+  }
+}
